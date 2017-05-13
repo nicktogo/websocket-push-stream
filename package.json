@@ -1,0 +1,15 @@
+{
+  "name": "websocket-push-stream",
+  "version": "0.1.0",
+  "description": "Expose a duplex stream that uses WebSockets as transport",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "websocket",
+    "stream"
+  ],
+  "author": "Pingshan <findpingshanli@gmail.com>",
+  "license": "MIT"
+}
