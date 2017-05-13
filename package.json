@@ -1,7 +1,7 @@
 {
   "name": "websocket-push-stream",
   "version": "0.1.0",
-  "description": "Expose a duplex stream that uses WebSockets as transport",
+  "description": "Expose a duplex stream that uses WebSockets as transportation but lacks of listening to message event",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
