@@ -1,6 +1,6 @@
 {
   "name": "websocket-push-stream",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Expose a duplex stream that uses WebSockets as transportation but lacks of listening to message event",
   "main": "index.js",
   "scripts": {
