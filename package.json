@@ -10,6 +10,7 @@
     "websocket",
     "stream"
   ],
+  "repository": "https://github.com/nicktogo/websocket-push-stream",
   "author": "Pingshan <findpingshanli@gmail.com>",
   "license": "MIT"
 }
